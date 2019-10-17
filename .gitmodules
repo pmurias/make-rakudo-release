@@ -1,0 +1,9 @@
+[submodule "rakudo"]
+	path = rakudo
+	url = git@github.com:rakudo/rakudo.git
+[submodule "nqp"]
+	path = nqp
+	url = git@github.com:perl6/nqp.git
+[submodule "parcel-plugin-nqp"]
+	path = parcel-plugin-nqp
+	url = git@github.com:perl6/parcel-plugin-nqp.git

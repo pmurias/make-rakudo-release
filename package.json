@@ -1,0 +1,4 @@
+{
+  "private": true,
+   "workspaces": ["nqp/src/vm/js/nqp-runtime", "nqp/nqp-js-on-js", "rakudo/src/vm/js/perl6", "build-nqp-browser-runtime/nqp-browser-runtime", "parcel-plugin-nqp"]
+}
